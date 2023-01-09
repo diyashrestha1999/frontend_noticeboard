@@ -19,7 +19,7 @@ export default {
     getMe() {
       // const config = {
       //   headers: {
-      //     Authorization: `JWT ${localStorage.getItem("access")}`,
+      //     Authorization: `JWT ${localStorage.getItem("access")}`,,,
       //   },
       // };
       this.$http
